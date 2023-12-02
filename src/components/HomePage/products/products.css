@@ -1,0 +1,12 @@
+
+.products{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.product-category{
+    display: block;
+    color: hsl(258, 96%, 22%);
+    margin-bottom: 0;
+ }

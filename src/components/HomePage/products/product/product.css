@@ -1,0 +1,20 @@
+.uni-product{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 20px;
+    padding-top:5px;
+    margin-bottom:20px;
+ }
+ .uni-img{
+    width: 100px;
+    height: 100px;
+    
+}
+.uni-list-item{
+    max-height: 300px;
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;
+}
